@@ -1,0 +1,23 @@
+.brailleForm{
+    background-color:white;
+    display:flex;
+    align-items: center;
+    margin-top: 100px;
+
+    
+}
+.input{
+    text-align: right;
+    width: 600px;
+    height:40px;
+    margin-bottom: 150px;
+}
+.submitButton{
+    margin-top: 20px;
+    width: 80px;
+    margin-left: 80px;
+    margin-bottom: 160px;
+}
+.title{
+    text-align: center;
+}
