@@ -1,7 +1,6 @@
 .brailleForm{
     background-color:white;
-    display:flex;
-    align-items: center;
+   
     margin-top: 100px;
 
     
@@ -9,8 +8,8 @@
 .input{
     text-align: right;
     width: 600px;
-    height:40px;
-    margin-bottom: 150px;
+    height:80px;
+    margin-bottom: 120px;
 }
 .submitButton{
     margin-top: 20px;
@@ -20,4 +19,12 @@
 }
 .title{
     text-align: center;
+}
+.div {
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    height: 60px;
 }
